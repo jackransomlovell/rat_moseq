@@ -1,0 +1,9 @@
+LICENSE
+setup.py
+rat_moseq.egg-info/PKG-INFO
+rat_moseq.egg-info/SOURCES.txt
+rat_moseq.egg-info/dependency_links.txt
+rat_moseq.egg-info/requires.txt
+rat_moseq.egg-info/top_level.txt
+tests/__init__.py
+tests/test_rat_moseq.py
